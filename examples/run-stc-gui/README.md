@@ -1,6 +1,6 @@
-## Run Windows Spirent TestCenter Application
+## Run Windows TestCenter Application
 
-Run a Windows Server 2019 instance and install the Spirent TestCenter Application.
+Run a Windows Server 2019 instance and install the TestCenter Application.
 
 ## Usage
 
@@ -14,7 +14,7 @@ This example will create resources that will incur a cost. Run `terraform destro
 
 The `terraform apply` will take approximately 30 minutes to complete in order to provision the Windows Server instance.
 
-[Connect](../../README.md#connect-to-windows-server) to the Windows Server instance via Remote Desktop and launch the Spirent TestCenter Application.
+[Connect](../../README.md#connect-to-windows-server) to the Windows Server instance via Remote Desktop and launch the TestCenter Application.
 
 <!-- BEGINNING OF PRE-COMMIT-TERRAFORM DOCS HOOK -->
 ## Requirements

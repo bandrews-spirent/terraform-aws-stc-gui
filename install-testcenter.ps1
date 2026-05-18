@@ -38,7 +38,7 @@ else
 }
 
 
-# Install Spirent TestCenter dependencies prior to SpirentTestCenter for a silent install
+# Install TestCenter dependencies prior to TestCenter for a silent install
 $stc_files_url = "http://stc-image-files.s3-website-us-east-1.amazonaws.com/win-install"
 
 Invoke-Download -FilePath "$Dir/chrome_installer.exe" -Url "http://dl.google.com/chrome/install/375.126/chrome_installer.exe"
